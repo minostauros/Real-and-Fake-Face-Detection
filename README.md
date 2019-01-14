@@ -1,4 +1,4 @@
-To download the dataset, please go to corresponding (Kaggle Dataset page)[https://www.kaggle.com/ciplab/real-and-fake-face-detection].
+To download the dataset, please go to corresponding [Kaggle Dataset page](https://www.kaggle.com/ciplab/real-and-fake-face-detection).
 
 # Real and Fake Face Detection
 ## Composite Fake Face Photos by Photoshop Experts
@@ -25,5 +25,9 @@ In case of fake photos, we have three groups; easy, mid, and hard (these groups 
 Also, you can use the filenames of fake images to see which part of faces are replaced (refer to the image below).
 ![Filename description.][1]
 
+### Data Samples
+![Data Samples][2]
 
   [1]: https://github.com/minostauros/Real-and-Fake-Face-Detection/raw/master/filename_description.jpg
+  [2]: https://github.com/minostauros/Real-and-Fake-Face-Detection/raw/master/samples.jpg
+  
