@@ -2,7 +2,7 @@ To download the dataset, please go to corresponding [Kaggle Dataset page](https:
 
 # Real and Fake Face Detection
 **[Computational Intelligence and Photography Lab][3]**  
-**Department of Computer Science, Yonsei University**
+Department of Computer Science, Yonsei University
 
 ![Data Samples][2]
 
